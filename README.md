@@ -2,9 +2,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-chancay-59a7a8333/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/Alejandro J Rodriguez" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Alejandro J Rodriguez"  /></a>
+<a href="https://www.facebook.com/alejandro.j.rodriguez.873402/nk"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Alejandro J Rodriguez"  /></a>
 <a href="mailto:alejandrorodri354@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@AJRch33"  /></a>
-  </p>
+</p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
